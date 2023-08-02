@@ -14,4 +14,6 @@ ng generate component housingLocation --standalone --inline-template --skip-test
 
 https://angular.io/tutorial/first-app/first-app-lesson-04
 ng generate interface housinglocation
+
+...
 ```
