@@ -16,4 +16,8 @@ https://angular.io/tutorial/first-app/first-app-lesson-04
 ng generate interface housinglocation
 
 ...
+
+ng generate service housing --skip-tests
+
+ng generate component details --standalone --inline-template --skip-tests
 ```
